@@ -1,2 +1,2 @@
 # guessword
-greek work test
+greek words test
