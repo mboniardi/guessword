@@ -1,2 +1,2 @@
 # guessword
-greek words test
+greek words tes 2t
