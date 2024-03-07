@@ -115,4 +115,8 @@ public class Game {
     public void setNumberOfCorrectAnswer(int numberOfCorrectAnswer) {
         this.numberOfCorrectAnswer = numberOfCorrectAnswer;
     }
+
+    public int getNumberOfQuestions(){
+       return this.gameDefiniton.getTotalQuestions(); 
+    }
 }
